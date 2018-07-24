@@ -1,0 +1,15 @@
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\bin\Debug\Aplikasi Perpustakaan.exe.config
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\bin\Debug\Aplikasi Perpustakaan.exe
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\bin\Debug\Aplikasi Perpustakaan.pdb
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\bin\Debug\Aplikasi Perpustakaan.xml
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.vbprojAssemblyReference.cache
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.Resources.resources
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.vbproj.GenerateResource.cache
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.vbproj.CoreCompileInputs.cache
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.exe
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.xml
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi Perpustakaan.pdb
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmLogin.resources
+c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmMain.resources
+C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmSiswa.resources
+C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmBuku.resources
