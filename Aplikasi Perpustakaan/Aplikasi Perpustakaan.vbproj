@@ -79,6 +79,18 @@
     <Compile Include="frmBuku.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmCariBuku.Designer.vb">
+      <DependentUpon>frmCariBuku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCariBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCariSiswa.Designer.vb">
+      <DependentUpon>frmCariSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCariSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmLogin.Designer.vb">
       <DependentUpon>frmLogin.vb</DependentUpon>
     </Compile>
@@ -90,6 +102,12 @@
     </Compile>
     <Compile Include="frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPeminjaman.Designer.vb">
+      <DependentUpon>frmPeminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPeminjaman.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmSiswa.Designer.vb">
@@ -118,11 +136,20 @@
     <EmbeddedResource Include="frmBuku.resx">
       <DependentUpon>frmBuku.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCariBuku.resx">
+      <DependentUpon>frmCariBuku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCariSiswa.resx">
+      <DependentUpon>frmCariSiswa.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPeminjaman.resx">
+      <DependentUpon>frmPeminjaman.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSiswa.resx">
       <DependentUpon>frmSiswa.vb</DependentUpon>

@@ -50,7 +50,7 @@ Partial Class frmMain
         Me.Panel1.Controls.Add(Me.Label1)
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
-        Me.Panel1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Panel1.Margin = New System.Windows.Forms.Padding(2)
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(533, 79)
         Me.Panel1.TabIndex = 0
@@ -84,7 +84,7 @@ Partial Class frmMain
         Me.Panel2.Controls.Add(Me.MenuStrip1)
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel2.Location = New System.Drawing.Point(0, 79)
-        Me.Panel2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Panel2.Margin = New System.Windows.Forms.Padding(2)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(533, 213)
         Me.Panel2.TabIndex = 1
@@ -115,7 +115,7 @@ Partial Class frmMain
         'KeluarToolStripMenuItem
         '
         Me.KeluarToolStripMenuItem.Name = "KeluarToolStripMenuItem"
-        Me.KeluarToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.KeluarToolStripMenuItem.Size = New System.Drawing.Size(107, 22)
         Me.KeluarToolStripMenuItem.Text = "Keluar"
         '
         'MasterToolStripMenuItem
@@ -128,13 +128,13 @@ Partial Class frmMain
         'SiswaToolStripMenuItem
         '
         Me.SiswaToolStripMenuItem.Name = "SiswaToolStripMenuItem"
-        Me.SiswaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.SiswaToolStripMenuItem.Size = New System.Drawing.Size(110, 22)
         Me.SiswaToolStripMenuItem.Text = "Siswa"
         '
         'BukuToolStripMenuItem
         '
         Me.BukuToolStripMenuItem.Name = "BukuToolStripMenuItem"
-        Me.BukuToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.BukuToolStripMenuItem.Size = New System.Drawing.Size(110, 22)
         Me.BukuToolStripMenuItem.Text = "Buku"
         '
         'AdminToolStripMenuItem
@@ -153,7 +153,7 @@ Partial Class frmMain
         'PeminjamanToolStripMenuItem
         '
         Me.PeminjamanToolStripMenuItem.Name = "PeminjamanToolStripMenuItem"
-        Me.PeminjamanToolStripMenuItem.Size = New System.Drawing.Size(141, 22)
+        Me.PeminjamanToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.PeminjamanToolStripMenuItem.Text = "Peminjaman"
         '
         'BantuanToolStripMenuItem
@@ -177,7 +177,7 @@ Partial Class frmMain
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.Panel1)
         Me.MainMenuStrip = Me.MenuStrip1
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "frmMain"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Aplikasi Perpustakaan"

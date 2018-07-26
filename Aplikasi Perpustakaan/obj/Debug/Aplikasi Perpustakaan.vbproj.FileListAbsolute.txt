@@ -13,3 +13,6 @@ c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpus
 c:\users\andika ahmad ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmMain.resources
 C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmSiswa.resources
 C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmBuku.resources
+C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmPeminjaman.resources
+C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmCariBuku.resources
+C:\Users\Andika Ahmad Ramadhn\source\repos\Aplikasi Perpustakaan\Aplikasi Perpustakaan\obj\Debug\Aplikasi_Perpustakaan.frmCariSiswa.resources

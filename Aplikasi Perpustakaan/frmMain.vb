@@ -30,4 +30,8 @@
     Private Sub BukuToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles BukuToolStripMenuItem.Click
         frmBuku.ShowDialog(Me)
     End Sub
+
+    Private Sub PeminjamanToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PeminjamanToolStripMenuItem.Click
+        frmPeminjaman.ShowDialog(Me)
+    End Sub
 End Class
